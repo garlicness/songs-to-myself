@@ -1,0 +1,32 @@
+branches:
+  - main
+
+repositoryUrl: "git@github.com:USER/REPO.git"
+
+plugins:
+  - "@semantic-release/commit-analyzer"
+  - "@semantic-release/release-notes-generator"
+  - - "@semantic-release/changelog"
+    - changelogFile: CHANGELOG.md
+      changelogTitle: "# MY PROJECT Changelog"
+  - - "@google/semantic-release-replace-plugin"
+    - replacements:
+        - files: [src/test.md]
+          from: text:\ v\d+\.\d+\.\d+
+          to: "text: v${nextRelease.version}"
+          countMatches: true
+          results:
+            - file: src/test.md
+              hasChanged: true
+              numMatches: 1
+              numReplacements: 1
+  - - "@semantic-release/exec"
+    - prepareCmd: make build
+  - - "@semantic-release/github"
+    - assets:
+        - label: E-pub-book
+          path: "./target/test.epub"
+  - - "@semantic-release/git"
+    - assets:
+        - CHANGELOG.md
+      message: "chore(release): perform release ${nextRelease.version}"
