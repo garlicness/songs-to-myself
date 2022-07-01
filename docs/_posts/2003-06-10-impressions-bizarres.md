@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Les impressions bizarres"
 date: 2003-06-10 12:00:00 -0000
 categories: chanson

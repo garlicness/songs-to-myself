@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "La mort c'est pas pire"
 date: 2020-01-04 12:00:00 -0000
 categories: chanson

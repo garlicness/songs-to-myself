@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Je voudrais pas crever 2"
 date: 2022-03-10 12:00:00 -0000
 categories: chanson

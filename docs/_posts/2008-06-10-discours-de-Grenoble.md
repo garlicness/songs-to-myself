@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Le discours de Grenoble"
 date: 2008-06-10 12:00:00 -0000
 categories: chanson
