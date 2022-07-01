@@ -3,3 +3,5 @@ line-length: false
 MD041: false
 # Allow Trailing punctuation in heading
 MD026: false
+# no-inline-html I
+MD033: false

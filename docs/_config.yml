@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -21,13 +21,10 @@
 title: Songs to myself
 email: adriendupaysdelail@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: garlicness
-github_username:  garlicness
+  Je voulais faire du rap mais pour cause d'incompétence, je vais juste laisser les paroles ici.
+# baseurl: "https://garlicness.github.io/songs-to-myself/"
+# url: "https://garlicness.github.io/songs-to-myself/"
+github_username: garlicness
 # github recommandations
 highlighter: rouge
 gist:
@@ -39,7 +36,7 @@ kramdown:
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
-
+  - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

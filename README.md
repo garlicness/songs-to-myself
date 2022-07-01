@@ -1,13 +1,9 @@
 # Songs to myself
 
-[![conventional commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
-
 I wanted to record french rap songs but due to some incompetence in that matter, instead, I do this public repo in the hopeless perspective that someone would do it for me while I have a nap 😴
 
-## Sematic release
+## A blog like web site
 
-The repo uses [Semantic release](https://github.com/semantic-release/semantic-release) for the commit messages.
+Thanks to [jekyll](https://github.com/jekyll), github pages and freely adapted layout from : <https://github.com/steveneschrich> :
 
-## Pandoc
-
-E-pub conversion made with [pandoc](https://pandoc.org/)
+<https://garlicness.github.io/songs-to-myself/>
