@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Il était une fois dans un pays"
 date: 2015-11-10 12:00:00 -0000
 categories: chanson

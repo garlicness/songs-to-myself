@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Les gateaux au chocolat"
 date: 2012-06-10 12:00:00 -0000
 categories: chanson

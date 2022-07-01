@@ -4,6 +4,6 @@ I wanted to record french rap songs but due to some incompetence in that matter,
 
 ## A blog like web site
 
-Thanks to [jekyll](https://github.com/jekyll), github pages and freely adapted layout from : <https://github.com/steveneschrich> :
+Thanks to [jekyll](https://github.com/jekyll), github pages.
 
 <https://garlicness.github.io/songs-to-myself/>

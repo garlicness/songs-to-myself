@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "La critique du sens"
 date: 2020-01-04 12:00:00 -0000
 categories: chanson

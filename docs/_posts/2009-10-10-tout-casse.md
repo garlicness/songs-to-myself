@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Tout cassé"
 date: 2009-10-10 12:00:00 -0000
 categories: chanson

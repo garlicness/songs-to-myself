@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Deja de llorar"
 date: 2015-11-10 12:00:00 -0000
 categories: chanson
