@@ -36,7 +36,7 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
