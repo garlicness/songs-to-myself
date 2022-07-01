@@ -38,9 +38,9 @@ Avaient touché du doigt plusieurs fois le meilleur et le pire
 Entre 2 âges brumeux à jamais perdus  
 Avaient dans leur chansons voiles de douleurs, sillons de sourires
 
-Des haches, des chevaux 
+Des haches, des chevaux
 De la boue des ponchos  
-des guitare des mains d’or 
+des guitare des mains d’or
 des mines des marins en héros  
 Et des accords mineurs des victoires et des cœurs  
 fiers forts féroces fidèles dans la rigueur
@@ -79,18 +79,18 @@ D’un guitariste aux mains sans doigts
 
 ---
 
-Et propulsés par la peur 
+Et propulsés par la peur
 Des étincelles des bouts de cœur  
-Comme des graines de pissenlit 
+Comme des graines de pissenlit
 Se dispersèrent à peine en vie  
-Et partis sans dire adieu 
+Et partis sans dire adieu
 des abysses au fond des yeux  
-Des secrets dans les accents 
+Des secrets dans les accents
 Qu’ici personne ne comprend
 
-Tant de montagnes à oublier 
+Tant de montagnes à oublier
 Qu’il faudrait plus d’une vie entière  
-A tresser sa terne tristesse 
+A tresser sa terne tristesse
 qui par tous les temps traine à terre  
 Et l’humain se dilue comme une petite goutte de peinture  
 Dans les eaux sales d’un port du nord, à l’embouchure
