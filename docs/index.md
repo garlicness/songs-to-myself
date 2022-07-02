@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Les chansons
+
 <div class="posts">
   {% assign sorted_posts = site.posts | sort: "date" | reverse %}
   {% for post in sorted_posts %}
@@ -10,3 +12,8 @@ layout: default
     </article>
   {% endfor %}
 </div>
+
+## Une nouvelle
+
+<https://github.com/garlicness/quand-manigancent-les-haricots/releases/latest>
+Pour télécharger cliquer sur Asset - Epub book
