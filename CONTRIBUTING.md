@@ -1,13 +1,7 @@
 # How to contribute
 
-First of all, thank you for taking the time to contribute to this project. I tried to make this repo as clean as time allows. Maybe you can help do more.
+I don't really know why someone would contribute, maybe some gh page UX improvement would be nice but I think you should do something more useful with your life 😏
 
-## Getting started
+Anyway, any comment welcome in the [issue section](https://github.com/garlicness/songs-to-myself/issues)
 
-- Fork this repo.
-- Start from **main** the branch.
-- Make your improvements.
-- The result should pass the linters.
-- This project uses [semantic commits](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
-
-When you're done, submit a pull request I'll check it out and we can talk about it.
+Thanks
