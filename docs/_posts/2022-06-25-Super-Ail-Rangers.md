@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Générique Ailman"
+title: "Générique Super Ail Rangers"
 date: 2022-06-25 17:43:00 -0000
 categories: chanson
 ---
@@ -8,72 +8,60 @@ categories: chanson
 Am G B Em x2
 
 Quand dans les forets dans les champs  
-De mauvais vents portent des méchants  
+De mauvais vents amènent les méchants  
 Qui sèment le zbeul et le chaos  
-C'est le Mal qui toque au carreau
+C'est le Mal qui toque au carreau  
 
 D G D Em
 
 C Em C A7
 
-Quand à l'interphone  
-C'est le danger sonne  
+Quand s'actionne l'interphone  
+Parcequ'y'a le danger sonne  
 Sans une hésitation  
-Il se sort les doigts du fion
+Ils se sortent les doigts du fion
 
 Refrain:
 
 D Bb F C A7
 
-C'est ailman! ailman  
-Le grand héro de notre terre  
+C'est Super Ail Rangers!  
+Les vrais héros de notre terre  
 Dans un monde sans pitié  
-Tu ne fais pas de quartier
+Ca ne fait pas de quartier
 
-Ailman ailman  
-Tu es juste et sévère  
-Tabasse tes ennemis  
-Tout les coups sont permis
-
----
-
-Et le cœur à l'ouvrage  
-Entrainant tes compagnons  
-Tu traverses les orages  
-En distribuant des nions
-
-Le courage chevillé au corps  
-Tu gardes au fond la rancœur  
-Le pouvoir de l'amitié  
-De la gnôle et du pâté
+Super Ail Rangers  
+Être juste et sévère  
+Tabasser les ennemis  
+Car tous les coups sont permis
 
 ---
 
-Un héro au cœur pur  
+REFRAIN
+
+De l'héroine au cœur pur  
 Pour vivre des aventures  
 Traverser les fossés  
 Même quand c'est tout mouillé
 
-Et le monde te doit tellement  
+Et le monde vous doit tellement  
 Pour l'aioli et la vie  
 Contre un petit défraiement  
 En toute modestie
 
-## Présentation
+## prez
 
-D
+D D#/D F//D#/D Cm x2 Cm
 
 Force ail rose de lautrec  
-Et ses toiles à Toulouse  
+Et ses toiles à toulouse  
 Le pouvoir des copeks  
 La source de tout le flouze
-
-Bm D Em A7
 
 Combatant élégant  
 Distribue des coups de savate  
 En prenant soin de mettre des gants  
-sans jamais tâcher sa cravate
+sans jamais tâcher ta cravate
 
 Force ail violet  
 Tu vis pour la vérité  
@@ -87,7 +75,7 @@ En maximisant les bénéfices
 Force ail blanc  
 Le seigneur des champs  
 Le chef du klan  
-Et son suprême assistant  
+Tu es le suprême assistant  
 Tes sacrées idées politiques  
 Sortent de la nuit des temps  
 Mais la cohésion de la clique  
@@ -99,14 +87,16 @@ Maître kung fu ninja
 Vêtu de ton pyjama  
 Traque et embusque l'espoir  
 L'immobilise d'une clé de bras  
-Le genou dans le dos  
-Pour nous le servir sur un plateau
+Avec le genou dans le dos  
+Pour le servir sur un plateau
 
-## Les attaques
+## les attaques
 
-Météorisation  
-Herse Rotative  
-Rotophist  
-Pulvérisation  
-Rouleau Fatal  
-Relevage; Retournement  
+Météorisation
+Herse Rotative
+Rotophist
+
+Pulvérisation
+
+Rouleau Fatal
+Relevage Retournement
