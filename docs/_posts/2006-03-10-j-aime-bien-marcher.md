@@ -84,8 +84,8 @@ Se dire qu'on se verra de l'autre coté
 
 Marcher pour fuir ou pour combattre  
 Quand plus rien a de sens  
-Marcher seul pour etre seul  
-malheureux fuir la sollitude
+Marcher seul pour être seul  
+malheureux fuir la solitude
 
 Marcher très vite pour oublier  
 Marcher pour être marcher pour vivre  

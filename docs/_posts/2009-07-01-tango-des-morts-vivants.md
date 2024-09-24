@@ -26,7 +26,7 @@ Les joues creusées comme des terriers
 Sous ses cheveux parasités
 
 Les yeux noirs le front ridé  
-Les os grinçant les pieds trainant  
+Les os grinçant les pieds traînant  
 vêtements et chair déchirés  
 Comme sa démarche trébuchante
 
