@@ -29,27 +29,16 @@ Quand on a plus de pelle
 Et un problème salissant  
 Comme une semaine de caleçons  
 
-### Refrain
+### Refrain 1
 
 Dm  
-Quand tu crèves la dalle elle a toujours un tupperware  
-Am  
-Ta mère la Sorcière!
-Qui a sacrifié sa carrière Sans regarder en arrière  
-TMLS  
-Gagne la guerre avec un soupière en fer  
-TMLS  
-Si tu vas pas chercher sa bière ça va saigner dans les chaumières  
-  
 Celle qui est fière quand on lui jette des pierres  
-Encore plus de caractère qu'un vieux camembert  
-elle sait où mettre du gruyère et comment faire moins cher  
+Am  
+Ta mère la Sorcière!  
+Sans offrandes à base de bière ça va saigner dans les chaumières  
+TMLS  
 Si t'es seul comme un vers t'auras toujours un supporter  
-  
-Pour renforcer les charpentes et réparer la cafetière  
-Elle scarifie des stagiaires sous la lune dans un cimetière  
-Passer les connards au karcher Pieds nu dans la tourbière  
-La déesse des ovaires entend ses prières  
+TMLS  
 
 ### Bouffe
 
@@ -59,7 +48,7 @@ Pour le prix d'un kebab
 Et encore il reste du rab  
   
 Elle transforme un fond de cagette  
-En pizza poirots-tartiflette  
+En pizza poireau-tartiflette  
 Elle t'casse les couilles mais en vrai  
 Elle stérilises que du pâté  
   
@@ -69,9 +58,18 @@ tu connaîtras pas la recette
 De la blanquette dans ton assiette  
   
 si on lui faisait la passe  
-si elle a pas la cagne  
-c'est une balle dans la face  
+quand elle a pas la cagne  
+une balle dans la lucarne  
 En enfournant les lasagnes  
+
+### Refrain 2
+
+Elle sait où mettre du gruyère et comment faire moins cher  
+TMLS  
+Encore plus de camembert  qu'un vieux caractère  
+TMLS  
+Quand tu crèves la dalle elle a toujours un tupperware  
+TMLS  
 
 ### logistique
 
@@ -95,6 +93,15 @@ aux course avant de passer en caisse
 Toi tu comptes encore sur tes doigts  
 Quand tu te les sors des fesses  
 
+### Refrain 3
+
+Pour renforcer les charpentes et réparer la cafetière  
+TMLS  
+Gagne la guerre avec un soupière en fer  
+TMLS  
+Qui a sacrifié sa carrière Sans regarder en arrière  
+TMLS  
+
 ### Fight /sang
 
 Dans un battle royal  
@@ -116,3 +123,12 @@ elles peuvent réduire en poussière
 une compagnie de CRS  
 mieux que des métallos vénèrs  
 mais avec plus d’allégresse  
+
+### Refrain 4
+
+Elle scarifie des stagiaires sous la lune dans un cimetière  
+TMLS  
+Passer les connards au karcher Pieds nu dans la tourbière  
+TMLS  
+La déesse des ovaires entend ses prières  
+TMLS  
